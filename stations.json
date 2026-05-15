@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "updated": "2026-05-14",
+  "stations": [
+    {
+      "id": "radio_joya_tena",
+      "name": "Radio Joya 97.3 FM",
+      "streamUrl": "https://stream.zeno.fm/ejemplo",
+      "logoUrl": "https://via.placeholder.com/300x300.png?text=Joya+97.3",
+      "genre": "Variada",
+      "city": "Tena",
+      "province": "Napo"
+    },
+    {
+      "id": "radio_olimpica_tena",
+      "name": "Radio Olímpica 94.5 FM",
+      "streamUrl": "https://stream.zeno.fm/ejemplo2",
+      "logoUrl": "https://via.placeholder.com/300x300.png?text=Olimpica+94.5",
+      "genre": "Deportiva",
+      "city": "Tena",
+      "province": "Napo"
+    },
+    {
+      "id": "la_fabulosa_tena",
+      "name": "La Fabulosa 92.3 FM",
+      "streamUrl": "https://stream.zeno.fm/ejemplo3",
+      "logoUrl": "https://via.placeholder.com/300x300.png?text=Fabulosa+92.3",
+      "genre": "Tropical",
+      "city": "Tena",
+      "province": "Napo"
+    }
+  ]
+}
