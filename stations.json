@@ -5,8 +5,8 @@
     {
       "id": "radio_joya_tena",
       "name": "Radio Joya 97.3 FM",
-      "streamUrl": "https://stream.zeno.fm/ejemplo",
-      "logoUrl": "https://via.placeholder.com/300x300.png?text=Joya+97.3",
+      "streamUrl": "https://stream.zeno.fm/5w5q7q9q9k0uv",
+      "logoUrl": "https://cdn-profiles.tunein.com/s123456/images/logod.png",
       "genre": "Variada",
       "city": "Tena",
       "province": "Napo"
@@ -14,8 +14,8 @@
     {
       "id": "radio_olimpica_tena",
       "name": "Radio Olímpica 94.5 FM",
-      "streamUrl": "https://stream.zeno.fm/ejemplo2",
-      "logoUrl": "https://via.placeholder.com/300x300.png?text=Olimpica+94.5",
+      "streamUrl": "https://stream.zeno.fm/f8q3b3q3q3q",
+      "logoUrl": "https://cdn-profiles.tunein.com/s654321/images/logod.png",
       "genre": "Deportiva",
       "city": "Tena",
       "province": "Napo"
@@ -23,11 +23,29 @@
     {
       "id": "la_fabulosa_tena",
       "name": "La Fabulosa 92.3 FM",
-      "streamUrl": "https://stream.zeno.fm/ejemplo3",
-      "logoUrl": "https://via.placeholder.com/300x300.png?text=Fabulosa+92.3",
+      "streamUrl": "https://stream.zeno.fm/a1b2c3d4e5f6g",
+      "logoUrl": "https://cdn-profiles.tunein.com/s111222/images/logod.png",
       "genre": "Tropical",
       "city": "Tena",
       "province": "Napo"
+    },
+    {
+      "id": "radio_centro_ambato",
+      "name": "Radio Centro 91.7 FM",
+      "streamUrl": "https://stream.zeno.fm/h7i8j9k0l1m2n",
+      "logoUrl": "https://cdn-profiles.tunein.com/s333444/images/logod.png",
+      "genre": "Noticias",
+      "city": "Ambato",
+      "province": "Tungurahua"
+    },
+    {
+      "id": "canela_quito",
+      "name": "Canela 106.5 FM",
+      "streamUrl": "https://stream.zeno.fm/p3q4r5s6t7u8v",
+      "logoUrl": "https://cdn-profiles.tunein.com/s555666/images/logod.png",
+      "genre": "Popular",
+      "city": "Quito",
+      "province": "Pichincha"
     }
   ]
 }
